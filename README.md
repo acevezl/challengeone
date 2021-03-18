@@ -40,5 +40,28 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+
+## Solution implemented
+
+The following changes were implemented as a solution to this challenge:
+
+* Optimized images: Image sizes were reduced and files optimized for web. Files were saved in next-gen format to improve download speed and data consumption.
+
+> The images provided on the base code were massively large.
+
+* Updated background and foreground colours to ensure there is sufficient contrast for visually impared people.
+
+> I found this via Lighthouse. The light blue does not have sufficient contrast against the white fonts.
+
+* Added alt and title attributes with descriptive text to all images.
+
+> alt is for accessibility, while title is for the popup.
+
+* Switched some classes to IDs to take advantage of using an anchor for topNav while also applying styles. For example:
+> Instead of: id="online-reputation-management" class="online-reputation-management"
+
+> Simply use: id="online-reputation-management" by updating the class .online-reputation-management to #online-reputation management.
+
+* 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
