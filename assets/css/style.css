@@ -47,6 +47,7 @@ body {
 
 .header div ul li a:hover {
     color: #ffe31c;
+    text-decoration: underline;
 }
 
 a {
@@ -106,7 +107,8 @@ p {
 .benefits div img {
     display: block;
     margin: 0 auto;
-    max-width: 150px;
+    width:150px;
+    height: 150px;
     color:white;
 }
 
@@ -120,8 +122,8 @@ p {
 }
 
 #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img  {
-    max-height: 200px;
-    min-height: 100px;
+    width: 300px;
+    height: auto;
     margin-bottom: 20px;
 }
 
