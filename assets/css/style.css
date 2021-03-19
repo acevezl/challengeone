@@ -98,6 +98,10 @@ p {
     color: #ffffff;
 }
 
+.benefits div p {
+    font-size:18px;
+}
+
 .benefits div h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -109,7 +113,6 @@ p {
     margin: 0 auto;
     width:150px;
     height: 150px;
-    color:white;
 }
 
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
