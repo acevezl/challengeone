@@ -50,6 +50,11 @@ body {
     text-decoration: underline;
 }
 
+.header div ul li a {
+    padding: 10px;
+    line-height: 2.5;
+}
+
 a {
     color: #ffffff;
     text-decoration:none;

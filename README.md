@@ -45,10 +45,6 @@ You are required to submit the following for review:
 
 The following changes were implemented as a solution to this challenge:
 
-* Updated background and foreground colours to ensure there is sufficient contrast for visually impared people.
-
-> The light blue does not have sufficient contrast against the white fonts.
-
 * Added alt and title attributes with descriptive text to all images.
 
 > alt is for accessibility, while title is for the popup.
@@ -64,7 +60,7 @@ The following changes were implemented as a solution to this challenge:
 
 > Simply use: id="online-reputation-management" by updating the class .online-reputation-management to #online-reputation management.
 
-* Resized h1, h2, h3, and p for easier readibility and contrast against background.
+* Resized h1, h2, h3, and p for easier readibility and contrast against background. 
 
 * Re-styled containers to flex, for a fully responsive design on different viewports.
 
