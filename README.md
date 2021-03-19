@@ -51,6 +51,8 @@ The following changes were implemented as a solution to this challenge:
 
 * Added alt and title to all h1, h2, and h3 elements, as well as to all anchors to allow screen readers to detect and read these elements outloud.
 
+* Swapped non-semantic containers (i.e. _div_) into semantic containers like: _section_, and _article_.
+
 * Optimized images: Image sizes were reduced and files optimized for web. Files were saved in next-gen format to improve download speed and data consumption.
 
 > The images provided on the base code were massively large.
