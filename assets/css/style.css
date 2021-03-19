@@ -10,6 +10,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/* HEADER styles */ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -56,6 +57,7 @@ body {
     font-size:24px;
 }
 
+/* General ANCHOR and PARAGRAPH styles */
 a {
     color: #ffffff;
     text-decoration:none;
@@ -65,6 +67,7 @@ p {
     font-size: 20px;
 }
 
+/* Hero styles */
 .hero {
     height: 640px;
     width: 100%;
@@ -74,6 +77,7 @@ p {
     background-position: center;
 }
 
+/* Use these only for the services boxes to show the images on the right or left */
 .float-left {
     float: left;
     margin-right: 20px;
@@ -84,6 +88,8 @@ p {
     margin-left: 20px;
 }
 
+/* Content is the main wrapper, Services and Benefits are inside Content */
+/* Removed float and changed everything to flex instead, for a true responsive design */
 .content {
     margin: 20px;
     display: flex;
@@ -117,6 +123,7 @@ p {
     height: 150px;
 }
 
+/* Consolidated all three classes, and swapped them to IDs - for double use as anchor and style selector */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -148,6 +155,7 @@ p {
     font-size: 20px;
 }
 
+/* Tweaks to preserve a nice look and feel on lower resolutions (mobile) */
 @media only screen and (max-width: 1130px) {
     .float-left, .float-right {
         float:none;
