@@ -62,6 +62,10 @@ The following changes were implemented as a solution to this challenge:
 
 > Simply use: id="online-reputation-management" by updating the class .online-reputation-management to #online-reputation management.
 
-* 
+* Replaced height:300px to min-height:300px. This allows the container to expand down when the screen resolution changes (i.e. from Desktop Viewport to Mobile)
+
+* Resized h1, h2, and h3 for easier readibility and contrast against background.
+
+* Re-styled containers to flex, for a fully responsive design.
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
