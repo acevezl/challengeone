@@ -1,5 +1,9 @@
 # 01 HTML CSS Git: Code Refactor
 
+* [User Story](#UserStory)
+* [Acceptance Criteria](#AcceptanceCriteria)
+* [Review](#Review)
+* [Solution Implemented](#SolutionImplemented)
 
 ## User Story
 
@@ -59,7 +63,8 @@ The following changes were implemented as a solution to this challenge:
 
 * Re-styled containers to flex, for a fully responsive design on different viewports.
 
-* Ran a Lighthouse report to validate performance, accessibility, best practices and SEO.
+* Ran a [Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Facevezl.github.io%2Fchallengeone%2Findex.html&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext#accessibility) report to validate performance, accessibility, best practices and SEO.
+
 
 - - -
 Luis Arnaut
