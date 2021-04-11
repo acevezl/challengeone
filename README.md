@@ -1,9 +1,9 @@
 # 01 HTML CSS Git: Code Refactor
 
-* [User Story](#UserStory)
-* [Acceptance Criteria](#AcceptanceCriteria)
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria)
 * [Review](#Review)
-* [Solution Implemented](#SolutionImplemented)
+* [Solution Implemented](#Solution-Implemented)
 
 ## User Story
 
@@ -37,8 +37,7 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-
-# Solution implemented
+## Solution Implemented
 
 The following changes were implemented as a solution to this challenge:
 
